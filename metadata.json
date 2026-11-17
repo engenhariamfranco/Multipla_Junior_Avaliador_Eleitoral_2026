@@ -1,0 +1,6 @@
+{
+  "name": "Múltipla Júnior — Avaliador Eleitoral 2026",
+  "description": "Sistema especialista de avaliação de propostas de candidatura da Múltipla Júnior (UFMS) para Diretoria Executiva e Conselho Fiscal, integrado ao Edital PE 2026, Modelo Oficial e Mapeamento de Cargos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
